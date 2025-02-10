@@ -7,6 +7,7 @@ Apriori is a machine learning algorithm to identify relationships between items 
 
 Metrics:
 a) Support - ratio of the number of times an item occurs in the transactions to the total number of transactions
+
 ![image](https://github.com/user-attachments/assets/a17d8ec0-a528-40d0-81d4-5b2f76f8351e)
 
 For example, let's say out of 1000 users who made the purchase on BigBasket, 150 people bought apples and 180 bought banana. 
