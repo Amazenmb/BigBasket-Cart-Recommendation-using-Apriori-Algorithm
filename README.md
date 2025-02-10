@@ -46,6 +46,5 @@ Cart items of past purchases of a set of users
 **Steps**
 1. Import Libraries
 2. Import Dataset
-3. Find No. of clusters i.e., K
-4. Training Model using K-Means
-5. Visualising final clusterization
+4. Set up Association Rule using Apriori
+5. Evaluate the results
