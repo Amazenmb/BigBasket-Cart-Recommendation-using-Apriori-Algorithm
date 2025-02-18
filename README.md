@@ -7,6 +7,7 @@ This is an implementation of recommendation system for cart items while a user i
 Apriori is a machine learning algorithm to identify relationships between items by identifying frequent itemsets. The process relies on the Apriori property that states that if an itemset appears frequently in a dataset, all its subsets must also be frequent. Some common use cases are to analyze clickstream data, identify fraudulent patterns in financial transactions, and recommendation systems like market basket analysis for ecommerce platforms.
 
 Metrics:
+
 a) Support - ratio of the number of times an item occurs in the transactions to the total number of transactions
 
 ![image](https://github.com/user-attachments/assets/a17d8ec0-a528-40d0-81d4-5b2f76f8351e)
