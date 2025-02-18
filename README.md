@@ -2,7 +2,8 @@
 
 This is an implementation of recommendation system for cart items while a user is exploring an ecommerce or similar website. Here I have done it on BigBasket Cart items purchase dataset. Using Apriori algorithm's  Association Rule based learning, I have trained the model and implemented the recommendation system. It works similar to "You may want to buy X" , "Customers who purchased X also purchased Y" or to show combo items if one of it is being explored by the user.
 
-**A bit about Apriori**
+**A bit about Apriori:**
+
 Apriori is a machine learning algorithm to identify relationships between items by identifying frequent itemsets. The process relies on the Apriori property that states that if an itemset appears frequently in a dataset, all its subsets must also be frequent. Some common use cases are to analyze clickstream data, identify fraudulent patterns in financial transactions, and recommendation systems like market basket analysis for ecommerce platforms.
 
 Metrics:
